@@ -27,7 +27,7 @@
 
 ## Installation
 
-Go to the webpage on Render Dashboard via [this link](https://taskattacker.onrender.com/).
+Go to the webpage on Render Dashboard via [this link](https://taskattacker-cjfj.onrender.com/).
 
 ## Usage
 
@@ -41,7 +41,7 @@ Login or Signup to access your data in the application. Once you've done that yo
 
 ### Link To Deployed Application
 
-[Deployed App on Render](https://taskattacker.onrender.com/)
+[Deployed App on Render](https://taskattacker-cjfj.onrender.com/)
 
 ## License
 
