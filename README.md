@@ -24,6 +24,7 @@
 - What problem does this solve: This application keeps you from forgetting your most important items for the day by providing an easy place to aggregate your tasks.
 - What I learned: We learned a lot about how routes work and how to utilize handlebars.js to create HTML pages.
 - Challanges: Working with conditionals in handlebars proved to be very challenging.
+- Original commits for this group project can be found at <https://github.com/NoahCalderwood/TaskAttacker>
 
 ## Installation
 
